@@ -48,7 +48,7 @@ cd customer_shopping_trends
 3. Load CSV Files (optional):
    - Open and load CSV files into PowerBI or Power BI Service and create customized visualizations.
 4. View Visualizations:
-   - Download a ```Customer Shopping Trends Dataset.pbix``` or open ```.png``` files to view dashboards.
+   - Download a ```Customer Shopping Trends Dataset.pbix``` or open ```.jpg``` files to view dashboards.
 
 ### Key Insights
 
